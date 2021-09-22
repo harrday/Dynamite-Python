@@ -1,0 +1,2 @@
+class BotError(RuntimeError):
+  pass
